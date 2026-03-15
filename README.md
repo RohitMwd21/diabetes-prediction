@@ -1,24 +1,19 @@
-# Diabetes Prediction using Machine Learning
+# Diabetes Prediction
 
-This project predicts whether a person is likely to have diabetes based on medical attributes using a machine learning model.
+Machine learning project to predict diabetes using Python and Scikit-learn.
 
-## Technologies Used
-
+## Tools & Technologies
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - Jupyter Notebook
 
-## Dataset
-
-The dataset used is the **Pima Indians Diabetes Dataset**, which contains medical data such as:
-
-- Glucose Level
-- Blood Pressure
-- BMI
-- Insulin
-- Age
+## Workflow
+1. Data Cleaning
+2. Exploratory Data Analysis (EDA)
+3. Model Training using Logistic Regression
+4. Model Saving and Prediction
 
 ## Project Workflow
 
